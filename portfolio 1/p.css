@@ -1,0 +1,156 @@
+
+
+
+.c{
+  background-image: url("imgggg.jpg");
+  
+  background-size: 400px;
+  /* background-size: 150px; */
+  background-repeat: no-repeat;
+  /* border-radius: 200px; */
+    display:flex;
+    /* border-radius: 50px; */
+    height: 450px;
+    width: 250px;
+    background-position:40% ;
+    /* background-clip: padding-box; */
+    border: solid azure 5px;
+    margin-left: 300px;
+     
+   
+}
+h6{
+text-shadow: 2px 4px 3px rgba(30, 190, 16, 0.65);
+ color: azure;
+ font-size:50px;
+  text-align: center;
+ margin-top: 200px;
+ padding-left: 110%;
+ 
+
+ 
+}
+h1{
+   color: aliceblue;
+   text-align: center;
+ 
+   
+
+}
+body{
+    background-image: url("uu.webp");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background-color:rgba(15, 234, 234, 0.418);
+    overflow: hidden;
+
+}
+nav a{
+    color: aliceblue;
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+   
+    float:left;
+     margin: 0%;
+
+
+}
+a:hover{
+    color: black;
+    transition-duration: 1ms;
+   
+}
+
+.ab{
+    
+    color: aliceblue;
+    max-width: 600px;
+    margin: auto;
+    border: solid rgb(62, 59, 59);
+    background-color: #101515f6;
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+}
+h4{
+font-size: medium;
+margin-left: 5px;
+
+}
+
+.de{
+    color: aliceblue;
+    max-width: 600px;
+    margin: auto;
+    border: solid rgb(62, 59, 59);
+    background-color: #101515f6;
+
+}
+
+h3{
+
+    font-size: xx-large;
+    text-align: center;   
+}
+
+.hh{
+ 
+    color: aliceblue;
+    max-width: 600px;
+    margin: auto;
+    border: solid rgb(62, 59, 59);
+    background-color: #101515f6;
+
+}
+h5{
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+.mm{
+    color: aliceblue;
+    max-width: 600px;
+    margin: auto;
+    border: solid rgb(62, 59, 59);
+    background-color:#101515f6;
+
+}
+
+
+
+
+.tt{
+    color: aliceblue;
+    max-width: 600px;
+    margin: auto;
+    border: solid rgb(62, 59, 59);
+    background-color: #101515f6;
+
+}
+ .nn{
+    background-color: #101515f6;
+    border: solid rgb(62, 59, 59);
+    
+ }
+   
+    .oo{
+        color: aliceblue;
+        padding-left: 400px;
+        text-decoration: none;
+    }
+    .oo:hover{
+        color: rgb(21, 128, 223);
+    }
+    footer{
+        background-color: #fffffff6;
+    border: solid rgb(62, 59, 59);
+        color: rgb(0, 0, 0);
+        margin-top: 20px;
+      padding-left: 350px;
+    }

@@ -1,0 +1,10 @@
+.class{
+    border: 2px solid green;
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(to right,yellow ,green);
+}
+input{
+    height: 30px;
+    width: 300px;
+}
